@@ -1,0 +1,9 @@
+# Dataset configuration for Safety Helmet Detection
+train: /kaggle/working/yolo_dataset/images/train
+val: /kaggle/working/yolo_dataset/images/val
+
+# Number of classes
+nc: 2
+
+# Class names
+names: ['helmet', 'head']
