@@ -1,0 +1,6 @@
+names:
+- helmet
+- head
+nc: 2
+train: /kaggle/working/yolo_dataset/images/train
+val: /kaggle/working/yolo_dataset/images/val
